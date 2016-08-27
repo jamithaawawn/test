@@ -1,5 +1,5 @@
-BACKGROUND_0_3_1_Matt
-Computerised and machine-based cognitive behavioural therapies have been in practice for nearly two decades; still, there is little concern over intrusiveness of technologies: operational methods and interfaces that require some extent in patients' cognitive processes during the interaction with either the therapist or content of the treatment. 
+BACKGROUND_0_4
+Computerised and machine-based cognitive behavioural therapies have been in practice for nearly two decades; still, there is little concern over intrusiveness of technologies: operational methods and interfaces that require some extent in patients' cognitive processes [22] during the interaction with either the therapist or content of the treatment. 
 Having social anxiety already affects shy individuals in social situations; avoiding adding more cognitive load on their mental state is a significant concern when designing an assistive tool to support their mental and physical skills in socialising. In this section, we look into the cognitive mechanism of intuition in human-computer interactive environments and how principles and concepts of intuitive interaction, embodied conceptual metaphors and peripheral interaction embedded in the design of technology can be beneficial to shy users when interacting with others within a computational environment. 
 
 Design for intuitive use
@@ -27,11 +27,7 @@ However, there are some activities that demand less or no concentration when per
 Tasks required in operating digital technologies especially computers are supposed to be secondary tasks since they can occur at the same time and require multitasking skills to operate [14]. Reconsider an early example scenario: writing an article on a portable computer, one has to do a mouse click while pressing and holding down some keyboard keys to perform a short-cut to create a new file. Just right before he completes the short-cut task, an email application triggers a sound, notifying of new message arrival. All a sudden, the system window shows up, warning that the battery needs a recharge. Although they are considered secondary tasks, they all appear to demand full attention from the user and at the same time; causing ineffectiveness, stress and exhaustion. Studies in peripheral interaction seek to reorganise attentional demand from secondary tasks in computational system; thus improving effectiveness whereas minimising interaction time, interruption and cognitive load when performing multiple tasks [14].
 Peripheral interaction has its root in ambient information system research [14], specifically at their success in moving information display out of traditional computer screens into physical environments [19] that are out of user's primary attention [20, 21]. Peripheral interaction advances this vision with an emphasis on minimising cognitive load, achieved by avoiding divided attention of user when accessing information i.e. habituating the interaction in everyday secondary tasks, increasing learnability in the interaction model and managing interruption in multitasking [14].
 
-Both tasks required in interacting with IBJ's interfaces are secondary by their natures. 
-The system's handshake is designed to be a context-aware application; it is embedded in the human's handshake and automatically activated when this greeting ritual takes place. Thus there is no cognitive effect demanded for the operation for data exchange. 
-For the information display element, the social badge is not only designed to be placed naturally in the clothing context since it is made with textile materials but also programme to change its content in a "subtle" manners. 
-This feature is permitted by the use of thermochromic paints, which are controlled with a customised heat circuit so that the variation of colours and the badge content can happen in the way that does not distract attention of the user and onlooker from the ongoing social situation.
-Designing the interfaces this way, their required tasks can be operated in the periphery; not adding more cognitive weight to shy users.
+Both tasks required in interacting with IBJ's interfaces are secondary by their natures. The system's handshake is designed to be a context-aware application; it is embedded in the human's handshake and automatically activated when this greeting ritual takes place. Thus there is no cognitive effect demanded for the operation for data exchange. For the information display element, the social badge is not only designed to be placed naturally in the clothing context since it is made with textile materials but also programme to change its content in a "subtle" manners. This feature is permitted by the use of thermochromic paints, which are controlled with a customised heat circuit so that the variation of colours and the badge content can happen in the way that does not distract attention of the user and onlooker from the ongoing social situation. Designing the interfaces this way, their required tasks can be operated in the periphery; not adding more cognitive weight to shy users.
 
 REFERENCE:
 
@@ -63,3 +59,8 @@ Proceedings of CHI 2001, pp. 515-521.
 [21] Stasko, J., Miller, T., Pousman Z., Plaue, C., and Ullah, O.
 Personalized Peripheral Information Awareness through
 Information Art. Proceedings of UbiComp 2004, pp. 18-35.
+        [22] Sheryl Brahnam 2014, HCI Prototyping and Modeling of Future Psychotherapy Technologies in Second Life
+[23] Sullivan, G., Craske, M. G., Sherbourne, C., Edlund, M. J., Rose, R. D., Golinelli, D., … Roy-Byrne, P. P. (2007). Design of the Coordinated Anxiety Learning and Management (CALM) Study: Innovations in Collaborative Care for Anxiety Disorders. General Hospital Psychiatry, 29(5), 379–387. http://doi.org/10.1016/j.genhosppsych.2007.04.005
+[24] MoodGym https://moodgym.anu.edu.au/welcome
+Mood Gym
+[25] _related_papers/Social_Anxiety/Cognitive Behaviour Research and Therapy
