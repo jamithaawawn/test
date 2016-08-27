@@ -1,0 +1,65 @@
+BACKGROUND
+Computerised and machine-based cognitive behavioural therapies have been in practice for nearly two decades; still, there is little concern over intrusiveness of technologies: operational methods and interfaces that require some extent in patients' cognitive processes during the interaction with either the therapist or content of the treatment. 
+Having social anxiety already affects shy individuals in social situations; avoiding adding more cognitive load on their mental state is a significant concern when designing an assistive tool to support their mental and physical skills in socialising. In this section, we look into the cognitive mechanism of intuition in human-computer interactive environments and how principles and concepts of intuitive interaction, embodied conceptual metaphors and peripheral interaction embedded in the design of technology can be beneficial to shy users when interacting with others within a computational environment. 
+
+Design for intuitive use
+Interactive technology designed to leverage user intuition can ease immediate use since intuition is our ability to perceive the meaning of things (be it physical or abstract) without the need for conscious reasoning. [5] Although this type of interaction occurs on the unconscious level, it requires prior knowledge of user to act on it and make sense of its reaction [5, 7, 8].  This knowledge can come from various sources and different levels in human knowledge continuum, ordering from highest to lowest levels as experience, culture, sensorimotor and innate (see descriptive details in [7, pp. x-xx]). The lower level of its continuum, the less frequently we need to reacquire and reuse in order to memorise and make it immediate to our reasoning and applying it without awareness. [7]
+Two distinctive levels of prior knowledge continuum are required in using the interfaces of IBJ with intuition. One is for the handshaking action required to trigger the data exchange operation between jackets, and another for the user to perceive the social score displayed on the badge.
+1. The knowledge about handshake is specific to culture source, which is dependent to where the user grow up and lives in. Although handshake can be dated back as far as Ancient Greece [11] and later became a formal expression in Western culture, it is a common greeting across the globe these days. 
+2. To understand the meaning of social score rising/lowing in the graphic scale on the badge, it requires prior knowledge specific to sensorimotor source, which is acquired in early childhood and based on continuous use through interaction with the technology world. We all learn about the mechanics and meaning of "vertical" scales from a very young age; everyday objects with a measuring scale (e.g., milk bottles, rulers, thermometers and kettles) are often seen in the house and school. 
+Conceptual metaphors as tools in designing interfaces
+We learn that prior knowledge is the main source for intuition when interact with technology at the level below the conscious, and can be acquired from various sources depending of the level of its continuum. The next question is how to retrieve these knowledge; what are the necessary tools for retrieving and using the knowledge, and how can the tool be used to facilitate intuitive interaction?
+The focus of this subsection is placed on the theory of conceptual metaphor, the cognitive mechanism that not only underlines intuitive interaction but also offers a direct mapping of prior knowledge onto the model and interface of computational systems [5].
+Introduced by Lakoff and Johnson (1980), conceptual metaphor refers to an understanding of one conceptual domain (target domain) in terms of another (source domain) where there is some similarity between the two. [13] In short, seeing one "thing" in the concept of another, which is simpler and takes less time to comprehend.
+A conceptual metaphor arises unconsciously as an extension of an embodied schema – a mental representation of bodily experience with the world we live in [5].  This representation occurs repeatedly and in pattern to construct and memorise our understanding of "things" (e.g., an entity, attribute or process) [7]. Later, when we experience a new "thing" that is unfamiliar and holds the same concept/ structure with that of the embodied schema, we can recall the knowledge from the embodied schema and place onto it without conscious thought. 
+There are three types of conceptual metaphors described by Lakoff and Johnson as: 1) structural metaphors that transfer the structure of one concept onto another; 2) orientational metaphors that organise the concept of something based on our bodily spatial orientation; and 3) ontological metaphors represent abstractions as concrete entities. [13] Examples of these metaphors, concepts and uses are presented in Table 1. For more descriptive details, see [ibid., pp.13-27].
+Table 1. Three types of conceptual metaphors, concepts, domains and usages
+Type of metaphors	Source domains	Metaphors	Target domains
+Structural	wars	conflict, attack, explode	arguments
+Orientational	spaces	up-down, high-low	feelings
+Ontological	balloons	float, boom	economics inflation
+
+Among these three, Orientational metaphors appear most naturally in our mind due to the fact that our body always exists and orientates in a physical environment; and thus constructs the concept of spatial orientations in relation to the ways we move e.g., up-down, in-out, centre-edge. These polar-opposition metaphors are not arbitrary; they impose spatial orientation on things are based on culture they are used in. Such In English linguistic expressions, when someone says "I'm feeling down", we understand that he is not happy; and when he says "The price of a train ticket has gone up"; it means the ticket price has been increased; or "The number of petition signatures is going up", we know that the number is increasing. 
+The concept of up that associates with more/better/higher and down with less/worse/lower is highlighted in the design of our technology, especially the way in which the social badge presents compatibility scores. The higher the badge score, the more compatibility between the wearers. In this work, we focus on the users’ ability to recognise and interpret this mapping, and the way they use the information; not on methods for calculating the compatibility level itself, which is hand-coded here.
+Design for peripheral interaction
+All everyday activities do not require the same amount of attention. Some activities demand full attention e.g., writing an article on a portable computer, cooking a stir-fry on high heat and searching for a TV program via a remote controller. Performing tasks needed by these activities, it is hard to perform other tasks in parallel. This is because their tasks demand high precision, accuracy and/or a short time to complete; thus our cognitive process is entirely dedicated to classification of tasks that demand focus or centre of attention. These types of tasks are the so-called primary tasks.
+However, there are some activities that demand less or no concentration when performing their required tasks, and can be carried out in parallel e.g., driving in a countryside, listening to music and chewing gums. Consider performing all of the tasks required by these activities at the same time, an experienced driver could easily enjoy the scenery, music and gums flavour. This is because his driving is highly trained. Although the driving is prioritised as the primary task in this context, it does not demand full attention. Listening to music and gums chewing – considered as secondary tasks – are apparent, well habituated in everyday life and can be carried out without thinking, or in fact, with the thinking that occurs in the periphery of attention. 
+Tasks required in operating digital technologies especially computers are supposed to be secondary tasks since they can occur at the same time and require multitasking skills to operate [14]. Reconsider an early example scenario: writing an article on a portable computer, one has to do a mouse click while pressing and holding down some keyboard keys to perform a short-cut to create a new file. Just right before he completes the short-cut task, an email application triggers a sound, notifying of new message arrival. All a sudden, the system window shows up, warning that the battery needs a recharge. Although they are considered secondary tasks, they all appear to demand full attention from the user and at the same time; causing ineffectiveness, stress and exhaustion. Studies in peripheral interaction seek to reorganise attentional demand from secondary tasks in computational system; thus improving effectiveness whereas minimising interaction time, interruption and cognitive load when performing multiple tasks [14].
+Peripheral interaction has its root in ambient information system research [14], specifically at their success in moving information display out of traditional computer screens into physical environments [19] that are out of user's primary attention [20, 21]. Peripheral interaction advances this vision with an emphasis on minimising cognitive load, achieved by avoiding divided attention of user when accessing information i.e. habituating the interaction in everyday secondary tasks, increasing learnability in the interaction model and managing interruption in multitasking [14].
+
+Both tasks required in interacting with IBJ's interfaces are secondary by their natures. 
+The system's handshake is designed to be a context-aware application; it is embedded in the human's handshake and automatically activated when this greeting ritual takes place. Thus there is no cognitive effect demanded for the operation for data exchange. 
+For the information display element, the social badge is not only designed to be placed naturally in the clothing context since it is made with textile materials but also programme to change its content in a "subtle" manners. 
+This feature is permitted by the use of thermochromic paints, which are controlled with a customised heat circuit so that the variation of colours and the badge content can happen in the way that does not distract attention of the user and onlooker from the ongoing social situation.
+Designing the interfaces this way, their required tasks can be operated in the periphery; not adding more cognitive weight to shy users.
+
+REFERENCE:
+
+ [1] Veale, 2003  
+[2] Heimberg et al, 1990
+[3] Sullivan, et al., 2007
+[4] https://moodgym.anu.edu.au/welcome
+[5] Antle, Corness and Droumeva, 2009, Human–computer-intuition? Exploring the cognitive basis for intuition in embodied interaction
+[6] Antle, et. al, 2009. Designing to Support Reasoned Imagination through Embodied Metaphor 
+[7] Hurtienne and Blessing, 2007, Metaphors as Tools for Intuitive Interaction with Technology
+[8] Blackler, Alethea/Popovic, Vesna/Mahar, Doug (2005): “Intuitive Interaction Applied to Interface Design”, in: Proceedings International Design Congress - IASDR 2005. Douliou, Taiwan.
+[9] Blackler, Alethea Liane and Hurtienne, Jorn (2007) Towards a unified view of intuitive interaction : definitions, models and tools across the world. MMIInteraktiv, 13(2007). pp. 36-54.
+[10] Macaranas, Anna; Antle, Alissa N.; and Riecke, Bernhard E.; 2012.  Three Strategies for Designing Intuitive Natural User  Interfaces
+[11] A brief History of Gesture – form the Handshake to the High-five, http://www.historyextra.com/article/ancient-greece/brief-history-gestures-handshake-high-five?utm_source=Facebook+referral&utm_medium=Facebook.com&utm_campaign=Bitly
+[12] Chplin et. al, 2000. Handshaking, Gender, Personality, and First Impressions
+[13] Lakoff & Johnson, 1980. The metaphors we live by.
+[14] Hausen et. al, 2013, Peripheral Interaction: Embedding HCI in Everyday Life
+hausen-interact13wp.pdf
+[15] Hausen thesis, 2014
+[16] Bakker thesis, 2015
+[17] Edge and Blackwell, 2009
+[18] Pousman_n_Stasko_2006_Taxonomy of Ambient Information Systems - Four patterns of design.pdf
+[19] Ishii, H.,Wisenski, C., Brave, S., Dahley, A., Gorbet, M.,
+Ullmer, B., and Yarin, P. AmbientROOM: Integrating
+Ambient Media with
+[20] Greenberg, S., and Rounding, M. The Notification Collage:
+Posting Information to Public and Personal Displays.
+Proceedings of CHI 2001, pp. 515-521.
+[21] Stasko, J., Miller, T., Pousman Z., Plaue, C., and Ullah, O.
+Personalized Peripheral Information Awareness through
+Information Art. Proceedings of UbiComp 2004, pp. 18-35.
